@@ -419,9 +419,10 @@ def main():
     top = fresh[:MAX_CHARTS_IN_GRID]
     extra = fresh[MAX_CHARTS_IN_GRID:]
 
-    # گرفتن کندل برای چارت
+    # گرفتن کندل برای چارت (تبدیل SOLUSDT -> SOL-USDT-SWAP)
     for sig in top:
-        inst_id = sig['symbol'] + "-USDT-SWAP"
+        base = sig['symbol'].replace("USDT", "")
+        inst_id = f"{base}-USDT-SWAP"
         sig['_candles'] = fetch_candles(inst_id)
 
     # ارسال پیام جداگانه برای هر سیگنال
