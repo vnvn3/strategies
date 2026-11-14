@@ -12,7 +12,10 @@
     {"name": "LINKUSDT", "source": "okx", "okx_inst": "LINK-USDT-SWAP","min_tick": 0.001, "strategies": ["Bollinger","Keltner","StochEMA","RSI2","NYBreak"]},
     {"name": "DOTUSDT",  "source": "okx", "okx_inst": "DOT-USDT-SWAP", "min_tick": 0.001, "strategies": ["VWAP","MACD_EMA","RSI2","Keltner"]},
     {"name": "SUIUSDT",  "source": "okx", "okx_inst": "DOT-USDT-SWAP", "min_tick": 0.001, "strategies": ["RSI2","Keltner"]},
-    {"name": "ZECUSDT",  "source": "okx", "okx_inst": "DOT-USDT-SWAP", "min_tick": 0.001, "strategies": ["RSI2","Keltner"]}
+    {"name": "ZECUSDT",  "source": "okx", "okx_inst": "DOT-USDT-SWAP", "min_tick": 0.001, "strategies": ["RSI2","Keltner"]},
+    {"name": "HYPEUSDT",  "source": "okx", "okx_inst": "DOT-USDT-SWAP", "min_tick": 0.001, "strategies": ["RSI2","Keltner"]},
+    {"name": "UNIUSDT",  "source": "okx", "okx_inst": "DOT-USDT-SWAP", "min_tick": 0.001, "strategies": ["RSI2","Keltner"]},
+    {"name": "HYPEUSDT",  "source": "okx", "okx_inst": "DOT-USDT-SWAP", "min_tick": 0.001, "strategies": ["RSI2","Keltner"]}
    
   
   ]
