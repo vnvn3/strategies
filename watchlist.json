@@ -10,7 +10,10 @@
     {"name": "DOGEUSDT", "source": "okx", "okx_inst": "DOGE-USDT-SWAP","min_tick": 0.0001,"strategies": ["Keltner","StochEMA","RSI2","SP2L"]},
     {"name": "AVAXUSDT", "source": "okx", "okx_inst": "AVAX-USDT-SWAP","min_tick": 0.001, "strategies": ["Keltner","Supertrend","Bollinger"]},
     {"name": "LINKUSDT", "source": "okx", "okx_inst": "LINK-USDT-SWAP","min_tick": 0.001, "strategies": ["Bollinger","Keltner","StochEMA","RSI2","NYBreak"]},
-    {"name": "DOTUSDT",  "source": "okx", "okx_inst": "DOT-USDT-SWAP", "min_tick": 0.001, "strategies": ["VWAP","MACD_EMA","RSI2","Keltner"]}
+    {"name": "DOTUSDT",  "source": "okx", "okx_inst": "DOT-USDT-SWAP", "min_tick": 0.001, "strategies": ["VWAP","MACD_EMA","RSI2","Keltner"]},
+    {"name": "SUIUSDT",  "source": "okx", "okx_inst": "DOT-USDT-SWAP", "min_tick": 0.001, "strategies": ["RSI2","Keltner"]},
+    {"name": "ZECUSDT",  "source": "okx", "okx_inst": "DOT-USDT-SWAP", "min_tick": 0.001, "strategies": ["RSI2","Keltner"]}
+   
   
   ]
 }
