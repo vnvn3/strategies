@@ -11,6 +11,6 @@
     {"name": "AVAXUSDT", "source": "okx", "okx_inst": "AVAX-USDT-SWAP","min_tick": 0.001, "strategies": ["Keltner","Supertrend","Bollinger"]},
     {"name": "LINKUSDT", "source": "okx", "okx_inst": "LINK-USDT-SWAP","min_tick": 0.001, "strategies": ["Bollinger","Keltner","StochEMA","RSI2","NYBreak"]},
     {"name": "DOTUSDT",  "source": "okx", "okx_inst": "DOT-USDT-SWAP", "min_tick": 0.001, "strategies": ["VWAP","MACD_EMA","RSI2","Keltner"]}
-    {"name": "SUIUSDT", "okx_inst": "SUI-USDT-SWAP", "strategies": ["Bollinger","RSI2","MACD_EMA","Keltner","Supertrend"]}
+  
   ]
 }
