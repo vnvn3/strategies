@@ -6,16 +6,17 @@
     {"name": "BNBUSDT",  "source": "okx", "okx_inst": "BNB-USDT-SWAP", "min_tick": 0.01,  "strategies": ["Bollinger","VWAP"]},
     {"name": "SOLUSDT",  "source": "okx", "okx_inst": "SOL-USDT-SWAP", "min_tick": 0.001, "strategies": ["Bollinger","Keltner","VWAP","MACD_EMA","SP2L","RSI2"]},
     {"name": "XRPUSDT",  "source": "okx", "okx_inst": "XRP-USDT-SWAP", "min_tick": 0.0001,"strategies": ["AsianBRK","MACD_EMA","NYBreak","SP2L","RSI2"]},
-    {"name": "ADAUSDT",  "source": "okx", "okx_inst": "ADA-USDT-SWAP", "min_tick": 0.0001,"strategies": ["Keltner","Bollinger","RSI2","VWAP"]},
+    {"name": "ADAUSDT",  "source": "okx", "okx_inst": "ADA-USDT-SWAP", "min_tick": 0.0001,"strategies": ["Keltner","Bollinger","RSI2"]},
     {"name": "DOGEUSDT", "source": "okx", "okx_inst": "DOGE-USDT-SWAP","min_tick": 0.0001,"strategies": ["Keltner","StochEMA","RSI2","SP2L"]},
     {"name": "AVAXUSDT", "source": "okx", "okx_inst": "AVAX-USDT-SWAP","min_tick": 0.001, "strategies": ["Keltner","Supertrend","Bollinger"]},
     {"name": "LINKUSDT", "source": "okx", "okx_inst": "LINK-USDT-SWAP","min_tick": 0.001, "strategies": ["Bollinger","Keltner","StochEMA","RSI2","NYBreak"]},
     {"name": "DOTUSDT",  "source": "okx", "okx_inst": "DOT-USDT-SWAP", "min_tick": 0.001, "strategies": ["VWAP","MACD_EMA","RSI2","Keltner"]},
-    {"name": "SUIUSDT",  "source": "okx", "okx_inst": "DOT-USDT-SWAP", "min_tick": 0.001, "strategies": ["RSI2","Keltner"]},
-    {"name": "ZECUSDT",  "source": "okx", "okx_inst": "DOT-USDT-SWAP", "min_tick": 0.001, "strategies": ["RSI2","Keltner"]},
-    {"name": "HYPEUSDT",  "source": "okx", "okx_inst": "DOT-USDT-SWAP", "min_tick": 0.001, "strategies": ["RSI2","Keltner"]},
-    {"name": "UNIUSDT",  "source": "okx", "okx_inst": "DOT-USDT-SWAP", "min_tick": 0.001, "strategies": ["RSI2","Keltner"]},
-    {"name": "HYPEUSDT",  "source": "okx", "okx_inst": "DOT-USDT-SWAP", "min_tick": 0.001, "strategies": ["RSI2","Keltner"]}
+    {"name": "SUIUSDT",  "source": "okx", "okx_inst": "SUI-USDT-SWAP", "min_tick": 0.001, "strategies": ["RSI2","Keltner"]},
+    {"name": "ZECUSDT",  "source": "okx", "okx_inst": "ZEC-USDT-SWAP", "min_tick": 0.001, "strategies": ["RSI2","Keltner"]},
+    {"name": "HYPEUSDT",  "source": "okx", "okx_inst": "HYPE-USDT-SWAP", "min_tick": 0.001, "strategies": ["RSI2","Keltner"]},
+    {"name": "UNIUSDT",  "source": "okx", "okx_inst": "UNI-USDT-SWAP", "min_tick": 0.001, "strategies": ["RSI2","Keltner"]},
+    {"name": "AAVEUSDT",  "source": "okx", "okx_inst": "AAVE-USDT-SWAP", "min_tick": 0.001, "strategies": ["RSI2","Keltner","SP2L"]},
+    {"name": "XAUUSDT",  "source": "okx", "okx_inst": "XAU-USDT-SWAP", "min_tick": 0.001, "strategies": ["RSI2","Keltner","SP2L"]}
    
   
   ]
