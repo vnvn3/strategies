@@ -215,4 +215,4 @@ def adx(high, low, close, n=14):
         adx_arr[n-1] = dx[:n].mean()
         for i in range(n, len(dx)):
             adx_arr[i] = (adx_arr[i-1] * (n-1) + dx[i]) / n
-    return adx_arr, plus_di, minus_di
+    return adx_arr, plus_di, minus_
