@@ -1,4 +1,4 @@
-name: Signal Scanner
+name: Signal Scanner 
 
 # هر ۵ دقیقه در جلسه ایران (۹-۲۳) اجرا می‌شود.
 # توجه: GitHub Actions cron حداقل ۵ دقیقه‌است و ممکن است چند دقیقه تأخیر داشته باشد.
