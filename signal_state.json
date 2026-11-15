@@ -43,6 +43,7 @@
     "DOTUSDT|Keltner|sell": 1794745545.6374362,
     "XAUUSDT|Keltner|sell": 1794745547.6849892,
     "LINKUSDT|Bollinger|sell": 1794746132.912,
-    "AVAXUSDT|Bollinger|sell": 1794746437.266662
+    "AVAXUSDT|Bollinger|sell": 1794746437.266662,
+    "BTCUSDT|MACD_EMA|buy": 1794747927.6028438
   }
 }
