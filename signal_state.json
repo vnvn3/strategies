@@ -43,6 +43,7 @@
     "ADAUSDT|Keltner|sell": 1794745541.527128,
     "DOTUSDT|Keltner|sell": 1794745545.6374362,
     "XAUUSDT|Keltner|sell": 1794745547.6849892,
-    "LINKUSDT|Bollinger|sell": 1794746132.912
+    "LINKUSDT|Bollinger|sell": 1794746132.912,
+    "AVAXUSDT|Bollinger|sell": 1794746437.266662
   }
 }
