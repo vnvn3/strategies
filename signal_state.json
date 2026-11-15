@@ -59,6 +59,12 @@
     "BTCUSDT|Bollinger|sell": 1794734448.2315865,
     "ADAUSDT|Keltner|sell": 1794734450.029449,
     "ADAUSDT|Bollinger|sell": 1794734451.8391073,
-    "AVAXUSDT|Keltner|sell": 1794734453.6318514
+    "AVAXUSDT|Keltner|sell": 1794734453.6318514,
+    "AVAXUSDT|Bollinger|sell": 1794734728.6148689,
+    "LINKUSDT|Keltner|sell": 1794734730.6351368,
+    "DOTUSDT|Keltner|sell": 1794734732.6003222,
+    "SUIUSDT|Keltner|sell": 1794734734.62035,
+    "UNIUSDT|Keltner|sell": 1794734736.5763195,
+    "HYPEUSDT|Keltner|sell": 1794734738.5368688
   }
 }
