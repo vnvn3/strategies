@@ -41,6 +41,7 @@
     "ADAUSDT|Keltner|sell": 1794770436.5427516,
     "BNBUSDT|Bollinger|sell": 1794770440.3218393,
     "SUIUSDT|Keltner|sell": 1794770445.9060316,
-    "AAVEUSDT|Keltner|sell": 1794770447.779836
+    "AAVEUSDT|Keltner|sell": 1794770447.779836,
+    "AVAXUSDT|Supertrend|sell": 1794770729.0002232
   }
 }
