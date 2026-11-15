@@ -36,6 +36,7 @@
     "LINKUSDT|Bollinger|sell": 1794760536.0300877,
     "AVAXUSDT|Bollinger|sell": 1794760537.9420562,
     "SOLUSDT|Bollinger|sell": 1794760539.8926969,
-    "ZECUSDT|Keltner|sell": 1794760541.9911277
+    "ZECUSDT|Keltner|sell": 1794760541.9911277,
+    "LINKUSDT|Bollinger|buy": 1794762054.219584
   }
 }
