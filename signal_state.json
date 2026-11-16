@@ -53,6 +53,14 @@
     "SOLUSDT|Bollinger|buy": 1794831930.981734,
     "SOLUSDT|Keltner|buy": 1794831932.8104603,
     "BTCUSDT|Bollinger|buy": 1794831934.77884,
-    "AAVEUSDT|Keltner|buy": 1794831939.604711
+    "AAVEUSDT|Keltner|buy": 1794831939.604711,
+    "BNBUSDT|Bollinger|buy": 1794832528.7247682,
+    "ADAUSDT|Keltner|buy": 1794832530.7795436,
+    "ADAUSDT|Bollinger|buy": 1794832532.821996,
+    "ETHUSDT|Bollinger|buy": 1794832534.8564565,
+    "SUIUSDT|Keltner|buy": 1794832536.9796934,
+    "DOTUSDT|Keltner|buy": 1794832539.0306234,
+    "ZECUSDT|Keltner|buy": 1794832541.064192,
+    "UNIUSDT|Keltner|buy": 1794832543.1234157
   }
 }
