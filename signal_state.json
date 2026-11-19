@@ -1,6 +1,8 @@
 {
   "sent": {
     "ZECUSDT|Keltner|sell": 1795066242.6111307,
-    "HYPEUSDT|Keltner|sell": 1795066244.5319288
+    "HYPEUSDT|Keltner|sell": 1795066244.5319288,
+    "LINKUSDT|StochEMA|buy": 1795066537.9560053,
+    "XAUUSDT|RSI2|sell": 1795066539.7888076
   }
 }
