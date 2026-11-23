@@ -1,22 +1,22 @@
 {
   "_comment": "نمادهای تحت پایش — بر اساس نتایج بک‌تست. نوع منبع داده: okx (crypto futures), binance (crypto spot).",
   "symbols": [
-    {"name": "BTCUSDT",  "source": "okx", "okx_inst": "BTC-USDT-SWAP", "min_tick": 0.1,   "strategies": ["SP2L","RSI2"]},
-    {"name": "ETHUSDT",  "source": "okx", "okx_inst": "ETH-USDT-SWAP", "min_tick": 0.01,  "strategies": ["RSI2"]},
-    {"name": "BNBUSDT",  "source": "okx", "okx_inst": "BNB-USDT-SWAP", "min_tick": 0.01,  "strategies": ["RSI2"]},
-    {"name": "SOLUSDT",  "source": "okx", "okx_inst": "SOL-USDT-SWAP", "min_tick": 0.001, "strategies": ["SP2L","RSI2"]},
-    {"name": "XRPUSDT",  "source": "okx", "okx_inst": "XRP-USDT-SWAP", "min_tick": 0.0001,"strategies": ["SP2L","RSI2"]},
-    {"name": "ADAUSDT",  "source": "okx", "okx_inst": "ADA-USDT-SWAP", "min_tick": 0.0001,"strategies": ["RSI2"]},
-    {"name": "DOGEUSDT", "source": "okx", "okx_inst": "DOGE-USDT-SWAP","min_tick": 0.0001,"strategies": ["Keltner","StochEMA","RSI2","SP2L"]},
-    {"name": "AVAXUSDT", "source": "okx", "okx_inst": "AVAX-USDT-SWAP","min_tick": 0.001, "strategies": ["Keltner","Supertrend"]},
-    {"name": "LINKUSDT", "source": "okx", "okx_inst": "LINK-USDT-SWAP","min_tick": 0.001, "strategies": ["RSI2"]},
-    {"name": "DOTUSDT",  "source": "okx", "okx_inst": "DOT-USDT-SWAP", "min_tick": 0.001, "strategies": ["MACD_EMA","RSI2","Keltner"]},
-    {"name": "SUIUSDT",  "source": "okx", "okx_inst": "SUI-USDT-SWAP", "min_tick": 0.001, "strategies": ["RSI2"]},
-    {"name": "ZECUSDT",  "source": "okx", "okx_inst": "ZEC-USDT-SWAP", "min_tick": 0.001, "strategies": ["RSI2"]},
-    {"name": "HYPEUSDT",  "source": "okx", "okx_inst": "HYPE-USDT-SWAP", "min_tick": 0.001, "strategies": ["RSI2"]},
-    {"name": "UNIUSDT",  "source": "okx", "okx_inst": "UNI-USDT-SWAP", "min_tick": 0.001, "strategies": ["RSI2","Keltner"]},
-    {"name": "AAVEUSDT",  "source": "okx", "okx_inst": "AAVE-USDT-SWAP", "min_tick": 0.001, "strategies": ["RSI2","Keltner","SP2L"]},
-    {"name": "XAUUSDT",  "source": "okx", "okx_inst": "XAU-USDT-SWAP", "min_tick": 0.001, "strategies": ["SP2L"]}
+    {"name": "BTCUSDT",  "source": "okx", "okx_inst": "BTC-USDT-SWAP", "min_tick": 0.1,   "strategies": ["OB","RSI2"]},
+    {"name": "ETHUSDT",  "source": "okx", "okx_inst": "ETH-USDT-SWAP", "min_tick": 0.01,  "strategies": ["OB"]},
+    {"name": "BNBUSDT",  "source": "okx", "okx_inst": "BNB-USDT-SWAP", "min_tick": 0.01,  "strategies": ["OB"]},
+    {"name": "SOLUSDT",  "source": "okx", "okx_inst": "SOL-USDT-SWAP", "min_tick": 0.001, "strategies": ["OB","RSI2"]},
+    {"name": "XRPUSDT",  "source": "okx", "okx_inst": "XRP-USDT-SWAP", "min_tick": 0.0001,"strategies": ["OB","RSI2"]},
+    {"name": "ADAUSDT",  "source": "okx", "okx_inst": "ADA-USDT-SWAP", "min_tick": 0.0001,"strategies": ["OB"]},
+    {"name": "DOGEUSDT", "source": "okx", "okx_inst": "DOGE-USDT-SWAP","min_tick": 0.0001,"strategies": ["OB"]},
+    {"name": "AVAXUSDT", "source": "okx", "okx_inst": "AVAX-USDT-SWAP","min_tick": 0.001, "strategies": ["OB"]},
+    {"name": "LINKUSDT", "source": "okx", "okx_inst": "LINK-USDT-SWAP","min_tick": 0.001, "strategies": ["OB"]},
+    {"name": "DOTUSDT",  "source": "okx", "okx_inst": "DOT-USDT-SWAP", "min_tick": 0.001, "strategies": ["OB"]},
+    {"name": "SUIUSDT",  "source": "okx", "okx_inst": "SUI-USDT-SWAP", "min_tick": 0.001, "strategies": ["OB"]},
+    {"name": "ZECUSDT",  "source": "okx", "okx_inst": "ZEC-USDT-SWAP", "min_tick": 0.001, "strategies": ["OB"]},
+    {"name": "HYPEUSDT",  "source": "okx", "okx_inst": "HYPE-USDT-SWAP", "min_tick": 0.001, "strategies": ["OB"]},
+    {"name": "UNIUSDT",  "source": "okx", "okx_inst": "UNI-USDT-SWAP", "min_tick": 0.001, "strategies": ["OB"]},
+    {"name": "AAVEUSDT",  "source": "okx", "okx_inst": "AAVE-USDT-SWAP", "min_tick": 0.001, "strategies": ["RSI2","OB"]},
+    {"name": "XAUUSDT",  "source": "okx", "okx_inst": "XAU-USDT-SWAP", "min_tick": 0.001, "strategies": ["OB"]}
    
   
   ]
