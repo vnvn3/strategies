@@ -82,6 +82,19 @@
       "stop_atr_mult": 1.5,
       "rr": 2.0,
       "backtest": {"win_rate": 37.4, "pf": 1.10, "return": 30.2, "dd": -29.8}
+    },
+    "OB": {
+      "enabled": true,
+      "lookback": 20,
+      "ob_body_mult": 1.5,
+      "min_impulse_candles": 3,
+      "impulse_atr_mult": 2.0,
+      "min_shadow_pct": 0.5,
+      "max_ob_age": 60,
+      "atr_period": 14,
+      "stop_atr_mult": 1.5,
+      "rr": 2.0,
+      "backtest": {"win_rate": 56.0, "pf": 1.45, "return": 48.0, "dd": -15.0}
     }
   }
 }
