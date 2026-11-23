@@ -10,7 +10,7 @@
     {"name": "DOGEUSDT", "source": "okx", "okx_inst": "DOGE-USDT-SWAP","min_tick": 0.0001,"strategies": ["OB"]},
     {"name": "AVAXUSDT", "source": "okx", "okx_inst": "AVAX-USDT-SWAP","min_tick": 0.001, "strategies": ["OB"]},
     {"name": "LINKUSDT", "source": "okx", "okx_inst": "LINK-USDT-SWAP","min_tick": 0.001, "strategies": ["OB"]},
-    {"name": "ETCUSDT",  "source": "okx", "okx_inst": "DOT-USDT-SWAP", "min_tick": 0.001, "strategies": ["OB"]},
+    {"name": "AKEUSDT",  "source": "okx", "okx_inst": "DOT-USDT-SWAP", "min_tick": 0.001, "strategies": ["OB"]},
     {"name": "SUIUSDT",  "source": "okx", "okx_inst": "SUI-USDT-SWAP", "min_tick": 0.001, "strategies": ["OB"]},
     {"name": "ZECUSDT",  "source": "okx", "okx_inst": "ZEC-USDT-SWAP", "min_tick": 0.001, "strategies": ["OB"]},
     {"name": "HYPEUSDT",  "source": "okx", "okx_inst": "HYPE-USDT-SWAP", "min_tick": 0.001, "strategies": ["OB"]},
